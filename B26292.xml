@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to Dr. Bvrnet occasioned by his late letter to Mr. Lowth.</title>
+            <author>Lowth, Simon, 1630?-1720.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26292</idno><idno type="EEBO-CITATION">12579028</idno>
+  <idno type="VID">200315</idno>
+  <idno type="EEBO-PROQUEST">2248584210</idno>
+  
+            <idno type="STC">Wing L3327</idno>
+            <idno type="OCLC">12579028</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26292)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200315)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 965:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to Dr. Bvrnet occasioned by his late letter to Mr. Lowth.</title>
+                  <author>Lowth, Simon, 1630?-1720.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Attributed to Simon Lowth. cf. NUC pre-1956.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint taken from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Burnet, Gilbert, 1643-1715.</term>
+               <term type="corporate_name">Church of England --  Doctrines.</term>
+               <term type="topical_term">Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:200315:1"/>
+            <head>A LETTER TO Dr. <hi>BƲRNET,</hi> Occasioned by his late LETTER to Mr. <hi>LOWTH.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WHen I read your Letter to Mr. <hi>Lowth,</hi> which you lately sent abroad to <hi>find</hi> him <hi>out</hi> (as you are pleased to express your self, as if Mr. <hi>Lowth</hi> were some <hi>Out-law d,</hi> or <hi>Silenc'd,</hi> or (at least) very <hi>Obscure</hi> Person) I could not but conclude either that Mr. <hi>Lowth</hi> was a most <hi>weak</hi> man for charging you with Fraudulent Dealing without turning to your <hi>Book,</hi> or that Dr. <hi>Burnet</hi> was a most <hi>confident</hi> man for denying matter of Fact in a Point that was so <hi>easie</hi> to be examined; especial<g ref="char:EOLhyphen"/>ly
+<pb n="2" facs="tcp:200315:2"/>since you are so <hi>positive</hi> in justifying your <hi>Self,</hi> and so severe in dealing with <hi>Him,</hi> as if he were one of the most <hi>Unjust,</hi> and <hi>Ignorant,</hi> and <hi>Contemptible</hi> men of all the Clergy. Upon this I resolved to use mine <hi>Own</hi> eyes, because you say the Truth on your side is so <hi>obvious</hi> and <hi>clear;</hi> partly that I might find out Mr. <hi>Lowth</hi>'s mistake (if there was one) and partly that I might vindicate the Credit of your Book, which (you say) would be <hi>shaken,</hi> if he had accused you <hi>justly:</hi> for to be free with you, some people believe it to be the <hi>only good</hi> thing you ever wrote, that could recommend you to the kind opinion of Honest Men, that know the difference between <hi>English</hi> and <hi>Scotch.</hi>
+            </p>
+            <p>I perceive the thing in Controversie between Mr. <hi>Lowth</hi> and your self lieth thus. First, Mr. <hi>Lowth</hi> tells us from Dr. <hi>Durel,</hi> that Arch-Bishop <hi>Cranmer</hi> chan<g ref="char:EOLhyphen"/>ged his <hi>former</hi> opinion about <hi>Church-Power,</hi> subscri<g ref="char:EOLhyphen"/>bing to the Opinion of Dr. <hi>Leyghton;</hi> and that when Dr. <hi>Durel</hi> perused Dr. <hi>Stillingfleet</hi>'s Manuscript, he saw <hi>Th. Cantuariensis</hi> set with the Arch-Bishops own hand below Dr. <hi>Leyghton</hi>'s name, to shew his <hi>Appro<g ref="char:EOLhyphen"/>bation</hi> of <hi>Leyghton</hi>'s <hi>Judgment,</hi> and his own love of <hi>Truth:</hi> and that this was upon the Article of <hi>Church-Power</hi> (for <hi>that's</hi> the <hi>bottom</hi> of the present Contro<g ref="char:EOLhyphen"/>versie.) Secondly, Mr. <hi>Lowth</hi> tells you upon his <hi>own</hi> observation, that you, Dr. <hi>Burnet,</hi> have dealt <hi>unfaithfully</hi> in Transcribing that part of the Manu<g ref="char:EOLhyphen"/>script,
+<pb n="3" facs="tcp:200315:2"/>in not giving any account to the World of the Arch Bishops subscription to Dr. <hi>Leyghton</hi> in <hi>that</hi> Point, but omitting it wholly, and even in the Se<g ref="char:EOLhyphen"/>cond Edition of your Book, which you say is <hi>Corre<g ref="char:EOLhyphen"/>cted</hi> too. This is Mr. <hi>Lowth</hi>'s story, and indeed if he be in the <hi>right, your</hi> dealing with the House of Com<g ref="char:EOLhyphen"/>mons, and with the Lords too, and with the whole world is very <hi>Disingenuous</hi> and <hi>Foul.</hi> On the other hand now, First, you Dr. <hi>Burnet,</hi> do grant in your <hi>History</hi> (<hi>lib.</hi> 3. <hi>pag.</hi> 289. as your Adversary doth rightly object) that in <hi>Cranmer</hi>'s Paper some <hi>Singular</hi> Opinions of his about the nature of <hi>Ecclesiastical Of<g ref="char:EOLhyphen"/>fices</hi> are found; but as they are delivered by him with all possible <hi>Modesty,</hi> so they were not establish'd as the Doctrin of the <hi>Church,</hi> but laid <hi>aside</hi> as parti<g ref="char:EOLhyphen"/>cular conceits of his <hi>own,</hi> and it seems that afterwards he <hi>changed</hi> his Opinion. Secondly, you confess in your <hi>Letter,</hi> that Dr. <hi>Durel,</hi> the Dean of <hi>Windsor</hi> may be <hi>Believed</hi> (<hi>pag.</hi> 5.) so that upon the whole you own what Mr. <hi>Lowth</hi> saith as to that part of the Story, that <hi>Cranmer</hi> did really subscribe to <hi>Leighton</hi> upon the Point of <hi>Church-Power,</hi> and that this Subscription is in the Manuscript which Dr. <hi>Durel</hi> and your self both <hi>saw.</hi> Now the question between Mr. <hi>Lowth</hi> and you is, about your <hi>Faithfulness</hi> or <hi>Unfaithfulness</hi> in the <hi>Transcribing.</hi> Mr. <hi>Lowth</hi> saith, you have <hi>not</hi> noted <hi>Cranmer's</hi> Subscription in that Point; you say that you
+<pb n="4" facs="tcp:200315:3"/>have, and that in your Book (<hi>pag.</hi> 243. <hi>Vol.</hi> 1. <hi>Coll. Rec.</hi>) where Dr. <hi>Leyghton</hi>'s Subscription is set down, there is set by it <hi>T. Cantuarien,</hi> Now if Mr. <hi>Lowth</hi> be in the wrong, he is guilty of extreme <hi>Carelesness</hi> indeed: but if you be in the wrong, you are guilty, Sir, of a double <hi>Falshood,</hi> of one in your <hi>History,</hi> of another in your <hi>Letter.</hi>
+            </p>
+            <p>Now, Sir, (as you say) I would willingly believe the best of <hi>every</hi> man (and even of you Dr. <hi>Burnet</hi>) but since you have charged Mr. <hi>Lowth</hi> so severely for <hi>Uncharitableness</hi> and <hi>Injustice,</hi> and for <hi>slandering</hi> you <hi>falsly,</hi> I must crave leave to tell you (for it is a hard thing, and needs a Preface to soften it) that you, your self, Dr. <hi>Burnet,</hi> are the <hi>False</hi> man, and the <hi>Slan<g ref="char:EOLhyphen"/>derer</hi> (for all your <hi>Confidence</hi>) that have brought <hi>Shame</hi> upon your <hi>self,</hi> if you have not <hi>forgotten</hi> to blush, since (as some Folk says) you hardened your <hi>Conscience</hi> in the case of my Lord <hi>Lauderdale,</hi> and your <hi>Forehead</hi> at the <hi>Rolls.</hi> Be not angry, Sir, but turn to your own Book. Turn to <hi>page</hi> 227. where the Question of <hi>Church-Power</hi> is, where <hi>Leyghton</hi>'s Opinion is, and where <hi>Cranmer</hi>'s Subscription <hi>ought</hi> to be, and you cannot find any <hi>Notice</hi> of that Subscription there (tho it be there in the <hi>Manuscript,</hi> saith Dr. <hi>Durel,</hi> whom you say we may <hi>Believe.</hi>) Turn on further to <hi>page</hi> 230. where another question upon the <hi>same</hi> subject is, and where <hi>Leighton</hi>'s Opinion is <hi>again,</hi> and
+<pb n="5" facs="tcp:200315:3"/>where <hi>Cranmer</hi>'s Subscription <hi>ought</hi> to be too (if we believe Dr. <hi>Durel,</hi> as you grant we may) and neither <hi>there</hi> is any the least notice taken of any such Subscri<g ref="char:EOLhyphen"/>ption.</p>
+            <p>Indeed such a Subscription is noted by you <hi>page</hi> 243. (the place you refer us to in your Letter) <hi>there</hi> is <hi>T. Cantuarien.</hi> over against the name of <hi>Edward Leighton;</hi> but <hi>that</hi> (good Doctor) is upon <hi>another</hi> Article, upon the Point of <hi>Extreme Unction,</hi> and up<g ref="char:EOLhyphen"/>on that Point only, not upon the Point of <hi>Church-Power</hi> (the Point in <hi>Controversie</hi> between Mr. <hi>Lowth</hi> and you.) And what is that Subscription to the pur<g ref="char:EOLhyphen"/>pose? He speaks of <hi>one</hi> thing, you of another that belongs not to the <hi>Question.</hi> He accuseth you for <hi>False dealing</hi> in the case of <hi>Church-Power;</hi> you would come off by shewing your <hi>just</hi> dealing in the case of <hi>Un<g ref="char:EOLhyphen"/>ction.</hi> This is a Trick, an Evasion, and instead of be<g ref="char:EOLhyphen"/>ing a Defence, is an argument of <hi>Guilt,</hi> a confession of a crime which none but Dr. <hi>Burnet</hi> could have been guilty of. Mr. <hi>Lowth</hi> chargeth you upon <hi>one</hi> Point (that of <hi>Church-Power,</hi> I tell ye) and he char<g ref="char:EOLhyphen"/>geth you roundly, justly, clearly, like an <hi>Honest man,</hi> like an <hi>English-man,</hi> like a true-hearted <hi>Clergy-man;</hi> you answer him <hi>Impertinently</hi> upon a Point that nei<g ref="char:EOLhyphen"/>ther of you is <hi>concerned</hi> about. You <hi>conceal Cranmer</hi>'s Subscription, where you should have mention'd it (saith Mr. <hi>Lowth:</hi>) You tell him you have mention d
+<pb n="6" facs="tcp:200315:4"/>it: but 'tis in <hi>another</hi> case that signifies nothing. What shall we call this? Fraud? Falseness? Equivocation? Shifting? Impudence? and an <hi>Abuse</hi> upon <hi>Lowth</hi> and <hi>Cranmer</hi> too? I call it <hi>neither;</hi> but some in <hi>England</hi> call it a <hi>Burnetisme,</hi> meaning a complication of <hi>all</hi> this. Who but Dr. <hi>Burnet</hi> would tell Mr. <hi>Lowth</hi> now, that he hath taken his Collection <hi>verbatim</hi> from the Ori<g ref="char:EOLhyphen"/>ginal, when there is not a word of the Arch-Bishops Subscription in the <hi>Transcript,</hi> where it is in the <hi>Ma<g ref="char:EOLhyphen"/>nuscript?</hi> Who but Dr. <hi>Burnet</hi> would have the Con<g ref="char:EOLhyphen"/>fidence to accuse Mr. <hi>Lowth</hi> of Uncharitableness in the manner, and of Injustice as to the matter of his charge? Who but Dr. <hi>Burnet</hi> would presume to take occasion hence to upbraid Mr. <hi>Lowth</hi> for the roughness of his Stile (which proceeds most from the fault of his <hi>Printer,</hi> and for want of good <hi>Correction,</hi> the Ho<g ref="char:EOLhyphen"/>nest man himself being at a great distance from <hi>Lon<g ref="char:EOLhyphen"/>don?</hi>) Really Doctor, I am concerned for your <hi>Repu<g ref="char:EOLhyphen"/>tation,</hi> tho I hope it will not prejudice the credit of your <hi>History.</hi> If it shakes <hi>that,</hi> I think both Houses of the next Parliament will be concern'd to take you to <hi>task</hi> for it, and for <hi>Imposing</hi> thus upon all English<g ref="char:EOLhyphen"/>men, as if you took us all for Children and Fools, <hi>easie</hi> to be cheated. If it <hi>should</hi> hinder the sale of your Book, the Price of it will <hi>fall,</hi> and the Injury is to <hi>Us</hi> that bought it before, when the rate was <hi>high.</hi> But if it should turn to <hi>your</hi> injury, or the <hi>Booksellers,</hi>
+               <pb n="7" facs="tcp:200315:4"/>you know Chancery gives not Equity for an Unsale<g ref="char:EOLhyphen"/>able Book; and of all men living I know none that has less reason to expect <hi>Relief,</hi> than your self, espe<g ref="char:EOLhyphen"/>cially since the Master of the Rolls is <hi>dead.</hi> I only ad<g ref="char:EOLhyphen"/>vise you to <hi>own</hi> your fault fairly and ingenuously, or else to take some other course to <hi>clear</hi> your self, lest the world say, that <hi>you have plaid the Knave in your Book, and the Fool in your Defence.</hi> And so farewel, till you pester the Press again.</p>
+            <closer>
+               <signed>
+                  <hi>Yours,</hi> &amp;c.</signed>
+            </closer>
+            <postscript>
+               <p>I crave your pardon that I send you this by the <hi>Pen<g ref="char:EOLhyphen"/>ny-Post;</hi> your old Friends, <hi>Ferguson, Bethel, Bil<g ref="char:EOLhyphen"/>ling,</hi> and I know not how many more that were wont to meet you at <hi>Starkey</hi>'s by <hi>Temple-Bar,</hi> are now out of the way, and I know none other of your <hi>Intimates</hi> to send you a Letter by.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Randal Taylor</hi> near <hi>Stationers-Hall,</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
